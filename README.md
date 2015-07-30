@@ -9,10 +9,12 @@ Important Notes: (Please read before using this library)
 
 2.Please change the library according to your requirements. If you want to use this library for testing please change the DDRC and PORTS I/O registers in beginning of header file statement(define statements). 
 
-3. 4-Bit mode for LCD is also avialble. Please check other repositories.
+
 
 
 Licensed under the GNU General Public License  Version 2.0 or above.
 
 Written by: Nawi
+
+4-Bit mode for LCD is also avialble. Please check other repositories.
 
