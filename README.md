@@ -14,7 +14,8 @@ Important Notes: (Please read before using this library)
 
 Licensed under the GNU General Public License  Version 2.0 or above.
 
-Written by: Nawi
 
+
+Written by: Nawi
 4-Bit mode for LCD is also avialble. Please check other repositories.
 
